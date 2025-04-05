@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pedrobenicio2005 a student
-- 👀 I’m interested in ...sonegação de imposto
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning ... java
 - 💞️ I’m looking to collaborate on ... TRT15
 - 📫 How to reach me ...
